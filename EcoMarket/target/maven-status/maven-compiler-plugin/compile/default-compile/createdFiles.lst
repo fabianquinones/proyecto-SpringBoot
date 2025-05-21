@@ -1,0 +1,5 @@
+com\grupo3\EcoMarket\controller\PedidoController.class
+com\grupo3\EcoMarket\repository\PedidoRepository.class
+com\grupo3\EcoMarket\service\Pedidoservice.class
+com\grupo3\EcoMarket\model\pedido.class
+com\grupo3\EcoMarket\EcoMarketApplication.class
