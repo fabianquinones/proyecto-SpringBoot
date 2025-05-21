@@ -1,0 +1,5 @@
+com\grupo3\EcoMarket\model\Usuario.class
+com\grupo3\EcoMarket\service\UsuarioService.class
+com\grupo3\EcoMarket\repository\UsuarioRepository.class
+com\grupo3\EcoMarket\EcoMarketApplication.class
+com\grupo3\EcoMarket\controller\UsuarioController.class

@@ -1,0 +1,8 @@
+<!-- filepath: c:\Users\fabia\Desktop\ecomarket2\pom.xml -->
+<!-- ...código existente... -->
+<dependency>
+    <groupId>com.oracle.database.jdbc</groupId>
+    <artifactId>ojdbc11</artifactId>
+    <version>21.9.0.0</version>
+</dependency>
+<!-- ...código existente... -->
