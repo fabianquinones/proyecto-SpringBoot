@@ -1,0 +1,3 @@
+WALLET_LOCATION = (SOURCE = (METHOD = file) (METHOD_DATA = (DIRECTORY="C:/Users/jlara/OneDrive/Escritorio/microservicio-usuario/EcoMarket/src/main/resources/Wallet")))
+SSL_SERVER_DN_MATCH = yes
+
